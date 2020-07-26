@@ -1,0 +1,21 @@
+Hello world
+This file is a test
+so i need to check
+whether this function works or not
+My name is matan
+His name is or
+he is a student
+I dont know what to write
+I just need several rows
+Line 1
+Line 2
+Line 3
+Line 4
+Line 5
+Line 6
+Line 7
+Line 8
+Line 9
+Line 10
+
+GOOD BYE! :>
