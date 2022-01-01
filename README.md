@@ -17,28 +17,6 @@ A customized information backup system according to the API list requirements us
  choose one of the options ,this line must include three arguments, the second argument configures the protocol and the third argument is the name of the file without extension.<br>
 - 8. Both the server and the client must be configured with the same protocol in order to work together.
 </p>
-<table>
-    <tr>
-            <td><img src="https://github.com/Matanlaza89/Computer_Store_C_Project/blob/master/images/add%20item.JPG" alt=""></td>
-            <td><img src="https://github.com/Matanlaza89/Computer_Store_C_Project/blob/master/images/admin%20level%20menu.JPG" alt=""></td>
-            <td><img src="https://github.com/Matanlaza89/Computer_Store_C_Project/blob/master/images/delete%20user.JPG" alt=""></td>
-    </tr>
-        <tr>
-            <td><img src="https://github.com/Matanlaza89/Computer_Store_C_Project/blob/master/images/display%20users.JPG" alt=""></td>
-            <td><img src="https://github.com/Matanlaza89/Computer_Store_C_Project/blob/master/images/items%20on%20store.JPG" alt=""></td>
-            <td><img src="https://github.com/Matanlaza89/Computer_Store_C_Project/blob/master/images/login.JPG" alt=""></td>
-    </tr>
-        <tr>
-            <td><img src="https://github.com/Matanlaza89/Computer_Store_C_Project/blob/master/images/new%20user.JPG" alt=""></td>
-            <td><img src="https://github.com/Matanlaza89/Computer_Store_C_Project/blob/master/images/search.JPG" alt=""></td>
-            <td><img src="https://github.com/Matanlaza89/Computer_Store_C_Project/blob/master/images/super%20user%20menu.JPG" alt=""></td>
-    </tr>
-	<tr>
-            <td><img src="https://github.com/Matanlaza89/Computer_Store_C_Project/blob/master/images/update%20user.JPG" alt=""></td>
-            <td><img src="https://github.com/Matanlaza89/Computer_Store_C_Project/blob/master/images/user%20level%20main.JPG" alt=""></td>
-    </tr>
-</table>
-
 <h1><u>API List</u></h1>
 <p>
 - 1. Working with a number of arguments - agrc , argv <br>
